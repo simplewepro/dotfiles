@@ -11,3 +11,7 @@ My dotfiles configurations shared
 ```shell
   bash ~/.dotfiles/install.sh
 ```
+
+```shell
+  source ~/.zshrc
+```
